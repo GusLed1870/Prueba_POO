@@ -38,7 +38,7 @@ namespace ConsoleApp11
 
             public void detenerse()
             {
-                Console.WriteLine("El auto se detuvo");
+                Console.WriteLine("El auto se detuvo!");
             }
 
         }
